@@ -1,0 +1,89 @@
+{
+  "main": {
+    "id": "0423694b1937684f",
+    "type": "split",
+    "children": [
+      {
+        "id": "cf38d04ce19fe64f",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "97d6a091dd680501",
+    "type": "split",
+    "children": [
+      {
+        "id": "318867f413944384",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "892045d24e9850a6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "6dccde6ec0eaa6b6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "33ffb01b07ceec03",
+    "type": "split",
+    "children": [
+      {
+        "id": "a375d11e15af6588",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3ee1ac147bc751dd",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "cf38d04ce19fe64f",
+  "lastOpenFiles": [
+    "协议设计/无线通信/无线通信协议设计.md"
+  ]
+}
