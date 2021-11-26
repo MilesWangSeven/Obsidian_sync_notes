@@ -1,14 +1,17 @@
 {
   "main": {
-    "id": "0423694b1937684f",
+    "id": "f5d05f37fdab9b75",
     "type": "split",
     "children": [
       {
-        "id": "cf38d04ce19fe64f",
+        "id": "fc2b5c785c415bca",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "资料库/框架和库/C框架和库.md",
+            "mode": "preview"
+          }
         }
       }
     ],
@@ -36,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#C",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -45,7 +48,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -65,13 +69,14 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "资料库/框架和库/C框架和库.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": false
               }
             }
           }
@@ -79,11 +84,11 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
-  "active": "cf38d04ce19fe64f",
+  "active": "fc2b5c785c415bca",
   "lastOpenFiles": [
+    "资料库/框架和库/C框架和库.md",
     "协议设计/无线通信/无线通信协议设计.md"
   ]
 }
