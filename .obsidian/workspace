@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "fc2b5c785c415bca",
+        "id": "c473c2b81304a40a",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "资料库/框架和库/C框架和库.md",
-            "mode": "preview"
+            "file": "资料库/python/工具/python打包.md",
+            "mode": "source"
           }
         }
       }
@@ -48,8 +48,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -69,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "资料库/框架和库/C框架和库.md",
+                "file": "资料库/python/工具/python打包.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,8 +85,10 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "fc2b5c785c415bca",
+  "active": "c473c2b81304a40a",
   "lastOpenFiles": [
+    "资料库/python/工具/python打包.md",
+    "Pasted image 20211127142344.png",
     "资料库/框架和库/C框架和库.md",
     "协议设计/无线通信/无线通信协议设计.md"
   ]
