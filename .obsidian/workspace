@@ -4,14 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "c473c2b81304a40a",
+        "id": "5701e2d15f0f673a",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "资料库/python/工具/python打包.md",
-            "mode": "source"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -68,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "资料库/python/工具/python打包.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -85,7 +81,7 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "c473c2b81304a40a",
+  "active": "5701e2d15f0f673a",
   "lastOpenFiles": [
     "资料库/python/工具/python打包.md",
     "Pasted image 20211127142344.png",
