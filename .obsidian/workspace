@@ -1,13 +1,13 @@
 {
   "main": {
-    "id": "f5d05f37fdab9b75",
+    "id": "eeb9b0e38f1c044f",
     "type": "split",
     "children": [
       {
-        "id": "5701e2d15f0f673a",
+        "id": "52bfe23127cdf334",
         "type": "leaf",
         "state": {
-          "type": "empty",
+          "type": "graph",
           "state": {}
         }
       }
@@ -36,7 +36,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#C",
+                "query": "tag:#git",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -45,7 +45,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -81,8 +82,9 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "5701e2d15f0f673a",
+  "active": "52bfe23127cdf334",
   "lastOpenFiles": [
+    "资料库/git/删除git历史文件.md",
     "资料库/python/工具/python打包.md",
     "Pasted image 20211127142344.png",
     "资料库/框架和库/C框架和库.md",
