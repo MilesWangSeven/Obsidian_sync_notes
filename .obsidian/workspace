@@ -4,10 +4,10 @@
     "type": "split",
     "children": [
       {
-        "id": "52bfe23127cdf334",
+        "id": "24ba04365e55470d",
         "type": "leaf",
         "state": {
-          "type": "graph",
+          "type": "empty",
           "state": {}
         }
       }
@@ -36,7 +36,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#git",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -82,8 +82,9 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "52bfe23127cdf334",
+  "active": "24ba04365e55470d",
   "lastOpenFiles": [
+    "资料库/git/submodule.md",
     "资料库/git/删除git历史文件.md",
     "资料库/python/工具/python打包.md",
     "Pasted image 20211127142344.png",
