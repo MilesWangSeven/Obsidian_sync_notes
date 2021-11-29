@@ -4,12 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "24ba04365e55470d",
+        "id": "c606bcf3ba79a153",
         "type": "leaf",
         "state": {
           "type": "empty",
           "state": {}
-        }
+        },
+        "group": "9cbe620be47f8c2a"
+      },
+      {
+        "id": "21f095c17b5a515b",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        },
+        "group": "9cbe620be47f8c2a"
       }
     ],
     "direction": "vertical"
@@ -45,8 +55,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -82,12 +91,13 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "24ba04365e55470d",
+  "active": "c606bcf3ba79a153",
   "lastOpenFiles": [
+    "资料库/python/工具/Pasted image 20211127142344.png",
+    "资料库/python/工具/python打包.md",
+    "资料库/在线工具库/二维码.md",
     "资料库/git/submodule.md",
     "资料库/git/删除git历史文件.md",
-    "资料库/python/工具/python打包.md",
-    "Pasted image 20211127142344.png",
     "资料库/框架和库/C框架和库.md",
     "协议设计/无线通信/无线通信协议设计.md"
   ]
