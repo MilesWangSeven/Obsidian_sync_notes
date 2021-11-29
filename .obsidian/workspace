@@ -4,22 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "c606bcf3ba79a153",
+        "id": "84f7209028b237f8",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
-        },
-        "group": "9cbe620be47f8c2a"
-      },
-      {
-        "id": "21f095c17b5a515b",
-        "type": "leaf",
-        "state": {
-          "type": "empty",
-          "state": {}
-        },
-        "group": "9cbe620be47f8c2a"
+          "type": "markdown",
+          "state": {
+            "file": "资料库/400-python/900-工具/001-python打包/001-python打包.md",
+            "mode": "source"
+          }
+        }
       }
     ],
     "direction": "vertical"
@@ -75,13 +68,14 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "资料库/400-python/900-工具/001-python打包/001-python打包.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": true,
-                "unlinkedCollapsed": false
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
               }
             }
           }
@@ -91,14 +85,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "c606bcf3ba79a153",
+  "active": "84f7209028b237f8",
   "lastOpenFiles": [
+    "资料库/400-python/900-工具/001-python打包/001-python打包.md",
+    "资料库/400-python/900-工具/001-python打包/900-python打包工具.png",
+    "资料库/400-python/900-工具/Pastedimage20211127142344.png",
+    "资料库/001-框架和库/001-框架和库.md",
+    "资料库/900-在线工具库/二维码.md",
+    "资料库/002-git/000-git操作.md",
+    "资料库/002-git/002-git submodule.md",
+    "资料库/002-git/001-删除git历史文件.md",
     "资料库/python/工具/Pasted image 20211127142344.png",
-    "资料库/python/工具/python打包.md",
-    "资料库/在线工具库/二维码.md",
-    "资料库/git/submodule.md",
-    "资料库/git/删除git历史文件.md",
-    "资料库/框架和库/C框架和库.md",
     "协议设计/无线通信/无线通信协议设计.md"
   ]
 }
